@@ -8,8 +8,8 @@ My personal blog about stuff i enjoy, computer security, dev, OS internals...
 
 ### Contact me
 
-[leseinne@gmail.com](mailto:leseinne@gmail.com)
+Email: [leseinne@gmail.com](mailto:leseinne@gmail.com)
 
-Twitter: @trapframe
+Twitter: [@trapframe](http://twitter.com/trapframe)
 
-Linkedin: http://fr.linkedin.com/pub/jerome-leseinne/2/763/310
+[Linkedin](http://fr.linkedin.com/pub/jerome-leseinne/2/763/310)
